@@ -1,1 +1,0 @@
-SWEA Python Beginner Problems 
